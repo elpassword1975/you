@@ -1,36 +1,80 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>El Universo Today — Diario Digital Satírico</title>
-  <link rel="stylesheet" href="css/style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>El Universo Today — Diario satírico de Jerez</title>
+  <meta name="description" content="Diario digital con estructura profesional: portada, secciones, lo más leído, publicidad, artículos.">
+  <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
-  <header class="header">
-    <div class="header-top">
-      <img class="logo-img" src="img/logo.png" alt="Logo El Universo Today">
+  <header class="site-header">
+    <div class="wrap headbar">
       <div class="brand">
-        <h1>El Universo Today</h1>
-        <p class="slogan">El diario que nadie pidió, pero todos necesitaban</p>
+        <img src="img/logo-ut.png" class="logo" alt="El Universo Today" />
+        <div class="brand-txt">
+          <h1>El Universo Today</h1>
+          <p class="tag">Diario satírico de Jerez — estructura real de periódico</p>
+        </div>
       </div>
+      <nav class="nav">
+        <a href="#">Portada</a>
+        <a href="#">Local</a>
+        <a href="#">Hostelería</a>
+        <a href="#">Cultura</a>
+        <a href="#">Deportes</a>
+        <a href="#">Opinión</a>
+      </nav>
     </div>
-    <nav class="nav">
-      <a href="#">Portada</a>
-      <a href="#">Actualidad</a>
-      <a href="#">Local</a>
-      <a href="#">Tecnología</a>
-      <a href="#">Curiosidades</a>
-      <a href="#">Opinión</a>
-    </nav>
+    <div class="ticker">
+      <div id="ticker-track" class="ticker-track">Cargando titulares...</div>
+    </div>
   </header>
 
-  <main class="container" id="lista">
-    <!-- Noticias se cargan aquí -->
+  <main class="wrap layout">
+    <section class="maincol">
+      <section id="hero" class="hero"></section>
+      <section>
+        <h2 class="section-title">Últimas noticias</h2>
+        <div id="grid" class="grid"></div>
+      </section>
+    </section>
+    <aside class="sidebar">
+      <section class="ad ad-top">Publicidad</section>
+      <section>
+        <h3 class="aside-title">Lo más leído</h3>
+        <div id="toplist" class="toplist"></div>
+      </section>
+      <section class="ad">Publicidad</section>
+    </aside>
   </main>
 
-  <footer class="footer">
-    © 2025 El Universo Today — Información sin garantías, risas casi garantizadas.
+  <footer class="site-footer">
+    <div class="wrap footergrid">
+      <div>
+        <h4>El Universo Today</h4>
+        <p>Diario digital de Jerez. Humor y sátira local en formato profesional.</p>
+      </div>
+      <div>
+        <h4>Secciones</h4>
+        <ul>
+          <li><a href="#">Local</a></li>
+          <li><a href="#">Hostelería</a></li>
+          <li><a href="#">Cultura</a></li>
+          <li><a href="#">Deportes</a></li>
+          <li><a href="#">Opinión</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Legal</h4>
+        <ul>
+          <li><a href="#">Aviso legal</a></li>
+          <li><a href="#">Privacidad</a></li>
+          <li><a href="#">Cookies</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="wrap copy">© 2025 El Universo Today</div>
   </footer>
 
   <script src="js/main.js"></script>
