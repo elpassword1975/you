@@ -1,0 +1,43 @@
+[
+  {
+    "titulo": "ZAS en modo 'susurro': bares de Jerez estrenan carta de gestos",
+    "fecha": "2025-11-09",
+    "resumen": "Nueva normativa: pedir una caña con mirada cómplice y dos dedos. El brindis sólo en lenguaje de signos.",
+    "imagen": "plaza-arenal.jpg",
+    "slug": "zas-jerez-carta-de-gestos",
+    "autor": "Maruja Byte",
+    "categoria": "Hostelería",
+    "cita": "“Desde que hablamos bajito, el fino sabe más a secreto.” — Cliente anónimo",
+    "contenido": "<p>La ZAS ha alcanzado su fase 2: <strong>susurros con denominación de origen</strong>. Los bares del centro han publicado una <em>carta de gestos</em> para pedir bebidas sin pronunciar palabra. Para pedir dos tintos, dos toques al vaso y una ceja levantada. Para pedir la cuenta, un pase torero con la servilleta.</p><p>Los vecinos aplauden… en lenguaje silencioso. La policía del silencio confirma que los brindis ruidosos se conmutarán por <em>palmaditas interiores</em>.</p>"
+  },
+  {
+    "titulo": "Bodegas activan el 'modo silencio espumoso' para convivir con la ZAS",
+    "fecha": "2025-11-10",
+    "resumen": "El CO2 de los vinos espumosos amortiguará conversaciones. Maridaje recomendado: copa + sonrisa en volumen 1.",
+    "imagen": "bodega-tio-pepe.jpg",
+    "slug": "bodegas-modo-silencio-espumoso",
+    "autor": "Pepe Algoritmo",
+    "categoria": "Local",
+    "contenido": "<p>Un grupo de bodegas jerezanas presenta <strong>silenciadores de corcho</strong> y copas con filtro antidecibelio. Según un portavoz, “ni un brindis por encima de 20 dB”.</p><p>La innovación se probará en catas guiadas donde el sumiller traduce emociones a gestos minimalistas: una ceja para frutas, dos para madera vieja.</p>"
+  },
+  {
+    "titulo": "El Alcázar cierra a las 22:00 por ZAS: guardias aprenden a decir 'chist' en cinco idiomas",
+    "fecha": "2025-11-08",
+    "resumen": "El primer 'chist' en esperanto desconcertó a un grupo de turistas nórdicos.",
+    "imagen": "alcazar-jerez.jpg",
+    "slug": "alcazar-chist-cinco-idiomas",
+    "autor": "Doña Glosa",
+    "categoria": "Cultura",
+    "contenido": "<p>El histórico Alcázar contará con <em>docentes del silencio</em> en las almenas. Cada hora en punto, un <strong>chist polifónico</strong> recordará la convivencia vecinal.</p><p>De regalo, tapones de oreja con aroma a albero para visitas guiadas nocturnas.</p>"
+  },
+  {
+    "titulo": "Xerez CD inaugura museo del ‘casi’: taquilla gratis si traes una anécdota",
+    "fecha": "2025-11-07",
+    "resumen": "Salas interactivas: 'La remontada que estuvimos a punto' y 'El fichaje que venía'",
+    "imagen": "catedral-jerez.jpg",
+    "slug": "xerez-museo-del-casi",
+    "autor": "Rafa Reverso",
+    "categoria": "Deportes",
+    "contenido": "<p>La entidad azulina presenta un recorrido inmersivo por su <strong>historia alternativa</strong>. El visitante podrá narrar su propia versión del gol que nunca fue, y el sistema generará un <em>recuerdo certificado</em>.</p><p>El merchandising incluye bufandas que dicen “esta vez sí” por un lado y “casi” por el otro.</p>"
+  }
+]
